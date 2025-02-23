@@ -1,7 +1,8 @@
 <!-- Banner Section -->
 <p align="center">
-  <img src="assets/banner.png" alt="Custom Banner" style="max-width: 100%; height: auto;" />
+  <img src="assets/banner.png" alt="Custom Banner" style="max-width: 100%; height: auto; border-radius: 10px;" />
 </p>
+
 
 # About Me
 
