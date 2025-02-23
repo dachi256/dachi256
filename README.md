@@ -62,9 +62,6 @@ I'm studying at NYU with a focus on Computer Science & Interactive Media. I'm pa
 
 ---
 
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dachi256&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dachi256/dachi256/output/github-snake-dark.svg" />
