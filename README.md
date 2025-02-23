@@ -14,8 +14,6 @@ Projects involving product strategy, full-stack development, and AI/ML applicati
 **📌 A Bit More About Me**  
 I'm studying at NYU with a focus on Computer Science & Interactive Media. I'm passionate about product analytics, UX research, and AI in product development. I also enjoy exploring interactive technologies and digital photography.
 
----
-
 # 💻 Tech Stack
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
