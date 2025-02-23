@@ -60,8 +60,6 @@ I'm studying at NYU with a focus on Computer Science & Interactive Media. I'm pa
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
----
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dachi256/dachi256/output/github-snake-dark.svg" />
