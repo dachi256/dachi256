@@ -3,17 +3,16 @@
   <img src="assets/banner.png" alt="Custom Banner" style="max-width: 100%; height: auto; border-radius: 10px;" />
 </p>
 
-
 # About Me
 
-**🌍 Currently Working On**  
-Managing the development of educational and real estate platforms at Al Fahad Trading Enterprises.
+**Currently Working On**  
+Building AI automation systems and pipelines at DevsData LLC.
 
-**🤝 Looking to Collaborate On**  
-Projects involving product strategy, full-stack development, and AI/ML applications in interactive technologies.
+**Looking to Collaborate On**  
+Projects involving AI/ML applications, automation engineering, full-stack development, and privacy-preserving technology.
 
-**📌 A Bit More About Me**  
-I'm studying at NYU with a focus on Computer Science & Interactive Media. I'm passionate about product analytics, UX research, and AI in product development. I also enjoy exploring interactive technologies and digital photography.
+**A Bit More About Me**  
+NYU Computer Science graduate (Class of 2025, Honors Scholar). I'm passionate about AI automation, LLM integrations, and building tools that make workflows smarter. Outside of work, I enjoy cooking and photography.
 
 # 💻 Tech Stack
 
